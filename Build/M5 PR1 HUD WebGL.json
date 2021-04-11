@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CR_HeroBorn",
+"productVersion": "0.1",
+"dataUrl": "M5 PR1 HUD WebGL.data.unityweb",
+"wasmCodeUrl": "M5 PR1 HUD WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "M5 PR1 HUD WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
